@@ -6,7 +6,7 @@
 const LoginAPI = {
     // PENTING: Pastikan IP ini SAMA PERSIS dengan yang ada di profil.js dan calendar.js
     // URL dari file profil.js Anda: http://10.30.13.24/api
-    baseUrl: "http://10.30.13.24:8000/api",
+    baseUrl: "http://172.16.16.78:8080",
 
     /**
      * Melakukan login user

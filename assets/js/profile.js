@@ -6,7 +6,7 @@
 
 const ProfileAPI = {
     // Pastikan port sama dengan file login.js (8000)
-    baseUrl: "http://10.30.13.24:8000/api",
+    baseUrl: "http://172.16.16.78:8080",
 
     /**
      * Mengambil data profil user terbaru dari server
